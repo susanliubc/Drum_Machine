@@ -1,0 +1,46 @@
+.card {
+    margin: 15vh auto 15vh auto;
+    padding-top: 5vh;
+    background-color: #00cccc;
+  }
+  .panel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 5vh;
+  }
+  .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 7.5vh auto;
+  }
+  .btn {
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 20px;
+    color: green;
+  }
+  #slider {
+    height: 40px;
+    padding: auto;
+  } 
+  #display {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: lightblue;
+    width: 60vw;
+    height: 20vh;
+    line-height: 20vh;
+    margin: auto;
+  }
+  .drum-pad {
+    width: 10vw;
+    height: 6vw;
+    color: blue;
+    border: 1px solid black;
+    line-height: 6vw;
+    border-radius: 15px;
+    background-color: #F5F5F5;
+  }
